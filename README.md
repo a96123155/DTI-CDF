@@ -11,5 +11,5 @@ Note-2: Python2.7 environment configuration: pip install -r DTI-CDF_requirements
 
 #-----------------------------------------------------------------------------------------------------------------------------
 
-Note-3: In the code folder, all the code of the NR data set is provided. Please run the code in order, first generate PsePSSM and data set, and then train. You can get the correlation between the three types of features by running the number 4 code.
+Note-3: In the code folder, all the code of the NR data set is provided, because NR is the smallest dataset that could be easy to run. Please run the code in order, first generate PsePSSM and data set, and then train. You can get the correlation between the three types of features by running the number 4 code.
 Note: Modify the path in the code. To run other datasets, simply change the path to the original file.
