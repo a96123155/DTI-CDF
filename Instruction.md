@@ -16,11 +16,10 @@ DTI-CDF a cascade deep forest model towards the prediction of drug-target intera
 ### Run NR data set (as a demo)
 1. Download fold “.\DTI-CDF\2_Example_NR”.
 
-2. In the “.\DTI-CDF\2_Example_NR” path, run the Example_NR.py file, as follows:
->>Open CMD and input:
-
->>>>`cd .\DTI-CDF\2_Example_NR`  
->>>>`python -u Example_NR.py > Example_NR.out`
+2. In the “.\DTI-CDF\2_Example_NR” path, run the Example_NR.py file, as follows:  
+   Open CMD and input:  
+          `cd .\DTI-CDF\2_Example_NR`  
+          `python -u Example_NR.py > Example_NR.out`
 
 
 Please see “Example_NR.out” file for the results/outputs which contains the results of performance metrics, time required for the program to run and the new DTIs predicted by this method.  
