@@ -1,5 +1,5 @@
 # DTI-CDF
-## An `introduction` file for DTI-CDF for DTIs prediction.
+## An `instruction` file for DTI-CDF for DTIs prediction.
 
 ### Introduction
 Drug-target interactions (DTIs) play a crucial role in target-based drug discovery and development. Computational prediction of DTIs has become a popular supplementary strategy to conduct the experimental methods, which are both time as well as resource consuming, for identification of DTIs. However, the performances of the current DTIs prediction approaches suffer from a problem of low precision and high false positive rate. In this study, we aim to develop a novel DTIs prediction method, named DTI-CDF, for improving the prediction performance based on a cascade deep forest model with multiple similarity-based features extracted from the heterogeneous graph. In the experiments, we build five replicates of 10-fold cross-validations under three different experimental settings of data sets, namely, corresponding DTIs values of certain drugs (SD), targets (ST), or drug-target pairs (SP) in the training sets are missed but existed in the test sets. The experimental results demonstrate that our proposed approach DTI-CDF achieves significantly higher performance than of the state-of-the-art methods. And there are 1352 predicted new DTIs are proved correct by KEGG and DrugBank databases.
