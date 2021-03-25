@@ -63,7 +63,7 @@ PyPDF2==1.25.1
 pyrsistent==0.14.11
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==18.0.0
 scandir==1.10.0
 scikit-learn==0.20.1
