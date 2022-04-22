@@ -59,7 +59,7 @@ psutil==5.4.8
 ptyprocess==0.6.0
 Pygments==2.4.0
 pyparsing==2.4.0
-PyPDF2==1.25.1
+PyPDF2==1.27.5
 pyrsistent==0.14.11
 python-dateutil==2.7.5
 pytz==2018.7
